@@ -12,3 +12,5 @@ list
 ordered list 
 1 item 1
 1 item 2
+
+![the logo](logo.png)
